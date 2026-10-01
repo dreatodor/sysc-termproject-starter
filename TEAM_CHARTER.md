@@ -25,6 +25,8 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 - **Handling disagreements:** _(how you decide when you don't agree)_
 - **Attribution:** each member does their own work and records it in the contribution log below.
 
+---
+
 ## Meeting and Stand-up Minutes
 ### Team Meeting #1
 **When:** Monday, September 21st, 2026
@@ -47,6 +49,8 @@ Fill this in for Assignment 1 and keep it updated each sprint.
     - **B5 -** Arul
     - **B6 -** Andrea
 - Create and start the SRS Report
+
+---
 
 ### Stand-up #1
 **When:** Monday, September 28th, 2026
@@ -72,7 +76,7 @@ Fill this in for Assignment 1 and keep it updated each sprint.
     - Cannot begin Task C until Task A and Task B are complete
 
 **Arul:** 
-- **Completed:** 
+-- **Completed:** 
     - Completed Task A (board package)
 - **In Progress:**
     - Working on Task B3 (Functional requirements) → 50% functional requirements added 
@@ -89,4 +93,44 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 - **Blocked:**
     - Cannot begin Task C until Task A and Task B are complete
 
+---
+
+### Stand-up #2
+**When:** Thursday, October 1st, 2026
+**Where:** In person
+**Purpose:** Check in on task statuses, make progress on Task C, and finalize taks 
+
+**Objectives:**
+- Complete the checklist review for the requirements and make fixes where needed
+- Confirm completion of deliverables
+
+#### Status Updates:
+**Andrea:**
+- **Completed:** 
+    - Made the small requirements.csv file
+    - Set up the local LLM (Task C, section 2)
+    - Completed the LangChain reviewer and ran it (Task C, section 3+4)
+- **In Progress:**
+    - Judging the findings → need to add one-line reasons
+- **Blocked:**
+    - Cannot export SRS.pdf until report is complete 
+    - Cannot add AI Usage notes until Task C is complete
+
+**Arul:**
+- **Completed:** 
+    - Completed Task B3 (Functional requirements)
+    - Completed Task B5 (Non-functional requirements)
+    - Added the fixes from the checklist review (Task C, section 1) 
+- **In Progress:**
+    - Finalizing the 29148 checklist
+
+**Cybèle:** 
+- **Completed:** 
+    - Completed Task B6 (Assumptions)
+    - Finalized the core events 
+- **In Progress:**
+    - Need to revise Task B2 (Actors) based on provided advice
+    - Working on Team and process section (roles, ways of working, and short retrospective) 
+
+--- 
 
