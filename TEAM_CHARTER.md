@@ -13,7 +13,7 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 | Sprint | Product Owner | Scrum Master | QA Lead |
 |--------|---------------|--------------|---------|
 | 1 | Andrea Todorovic | Cybèle Andersen | Arul Rao |
-| 2 |  |  |  |
+| 2 | Arul Rao | Andrea Todorovic | Cybèle Andersen |
 | 3 |  |  |  |
 | 4 |  |  |  |
 | 5 |  |  |  |
@@ -27,10 +27,10 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 
 ---
 
-## Meeting and Stand-up Minutes
-### Team Meeting #1
-**When:** Monday, September 21st, 2026
-**Where:** In person
+## Meeting and Stand-up Minutes  
+### Team Meeting / Sprint Planning #1
+**When:** Monday, September 21st, 2026\
+**Where:** In person\
 **Purpose:** Review the requirements of the assignment, assign roles, divide the roles, and begin working on tasks.
 
 **Objectives:**
@@ -52,10 +52,10 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 
 ---
 
-### Stand-up #1
-**When:** Monday, September 28th, 2026
-**Where:** In person
-**Purpose:** Check in on task status, discuss next steps for Task C, and give feedback on completed/in-progress work.
+### Stand-up #1 - Sprint 1
+**When:** Monday, September 28th, 2026\
+**Where:** In person\
+**Purpose:** Check in on task status, discuss next steps for Task C, and give feedback on completed/in-progress work.\
 
 **Objectives:**
 - Complete the SRS document (B1 - B6)
@@ -76,7 +76,7 @@ Fill this in for Assignment 1 and keep it updated each sprint.
     - Cannot begin Task C until Task A and Task B are complete
 
 **Arul:** 
--- **Completed:** 
+- **Completed:** 
     - Completed Task A (board package)
 - **In Progress:**
     - Working on Task B3 (Functional requirements) → 50% functional requirements added 
@@ -95,10 +95,10 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 
 ---
 
-### Stand-up #2
-**When:** Thursday, October 1st, 2026
-**Where:** In person
-**Purpose:** Check in on task statuses, make progress on Task C, and finalize taks 
+### Stand-up #2 - Sprint 1
+**When:** Thursday, October 1st, 2026\
+**Where:** In person\
+**Purpose:** Check in on task statuses, make progress on Task C, and finalize tasks.
 
 **Objectives:**
 - Complete the checklist review for the requirements and make fixes where needed
@@ -106,7 +106,7 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 
 #### Status Updates:
 **Andrea:**
-- **Completed:** 
+- **Completed:**
     - Made the small requirements.csv file
     - Set up the local LLM (Task C, section 2)
     - Completed the LangChain reviewer and ran it (Task C, section 3+4)
@@ -120,7 +120,7 @@ Fill this in for Assignment 1 and keep it updated each sprint.
 - **Completed:** 
     - Completed Task B3 (Functional requirements)
     - Completed Task B5 (Non-functional requirements)
-    - Added the fixes from the checklist review (Task C, section 1) 
+    - Added the fixes from the crhecklist review (Task C, section 1) 
 - **In Progress:**
     - Finalizing the 29148 checklist
 
@@ -133,4 +133,23 @@ Fill this in for Assignment 1 and keep it updated each sprint.
     - Working on Team and process section (roles, ways of working, and short retrospective) 
 
 --- 
+
+### Team Meeting / Sprint Planning #2
+**When:** Monday, October 5th, 2026\
+**Where:** In person\
+**Purpose:** Complete Sprint #1, review instructions and plan for Sprint #2, assign new roles.
+    
+**Objectives:**
+- Assign roles for Sprint #2 (Complete)
+- Create the Design: Structure & Interaction Report (Complete)
+- Add Jiras for Sprint #2 to the backlog
+- Delegate the tasks to the team members:
+    - **Task A -** Andrea
+    - **Task B -** Cybèle
+    - **Task C -** Arul
+
+---
+
+
+
 
